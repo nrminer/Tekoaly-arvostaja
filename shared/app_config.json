@@ -1,0 +1,7 @@
+{
+  "cvMinChars": 120,
+  "languageMode": "finnish-only",
+  "defaultLanguage": "fi",
+  "interviewTimerSecondsDefault": 90,
+  "interviewTimerSecondsOptions": [60, 90, 120]
+}
